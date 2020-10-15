@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<livre>
+
+<titre>Mon livre</titre>
+
+
+<auteurs>
+
+
+<auteur>
+
+<nom>Ben ayed</nom>
+
+<prenom>nada</prenom>
+
+</auteur>
+
+
+<auteur>
+
+<nom>Briand</nom>
+
+<prenom>Aristide</prenom>
+
+</auteur>
+
+</auteurs>
+
+
+<sections>
+
+
+<section>
+
+<titre>Section 1</titre>
+
+
+<chapitres>
+
+
+<chapitre>
+
+<titre>Chapitre 1</titre>
+
+
+<paragraphes>
+
+<paragraphe>Premier paragraphe</paragraphe>
+
+<paragraphe>DeuxiÃ¨me paragraphe</paragraphe>
+
+</paragraphes>
+
+</chapitre>
+
+
+<chapitre>
+
+<titre>Chapitre 2</titre>
+
+
+<paragraphes>
+
+<paragraphe>Premier paragraphe</paragraphe>
+
+<paragraphe>DeuxiÃ¨me paragraphe</paragraphe>
+
+</paragraphes>
+
+</chapitre>
+
+</chapitres>
+
+</section>
+
+
+<section>
+
+<titre>Section 2</titre>
+
+
+<chapitres>
+
+
+<chapitre>
+
+<titre>Chapitre 1</titre>
+
+
+<paragraphes>
+
+<paragraphe>Premier paragraphe</paragraphe>
+
+<paragraphe>DeuxiÃ¨me paragraphe</paragraphe>
+
+</paragraphes>
+
+</chapitre>
+
+
+<chapitre>
+
+<titre>Chapitre 2</titre>
+
+
+<paragraphes>
+
+<paragraphe>Premier paragraphe</paragraphe>
+
+<paragraphe>DeuxiÃ¨me paragraphe</paragraphe>
+
+</paragraphes>
+
+</chapitre>
+
+</chapitres>
+
+</section>
+
+</sections>
+
+</livre>
